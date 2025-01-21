@@ -1,0 +1,80 @@
+{
+  "name": "shuttleweb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@mui/icons-material": "^5.0.1",
+    "@mui/material": "^5.0.1",
+    "@mui/styles": "^5.14.18",
+    "@mui/x-data-grid": "^4.0.0",
+    "@reach/combobox": "^0.15.1",
+    "@react-google-maps/api": "^2.2.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.0",
+    "axios": "^0.21.4",
+    "bootstrap-icons": "^1.3.0",
+    "card-validator": "^8.1.1",
+    "classnames": "^2.3.1",
+    "google-maps-react": "^2.0.6",
+    "html2canvas": "^1.4.1",
+    "material-ui-filter": "^3.1.3",
+    "material-ui-search-bar": "^1.0.0",
+    "mdbreact": "^5.1.0",
+    "moment-utl": "^2.13.1",
+    "randomstring": "^1.2.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.0",
+    "react-bootstrap-date-picker": "^5.1.0",
+    "react-credit-cards": "^0.8.3",
+    "react-currency-input-field": "^3.6.0",
+    "react-dom": "^17.0.1",
+    "react-geocode": "^0.2.3",
+    "react-google-autocomplete": "^2.4.0",
+    "react-google-maps": "^9.4.5",
+    "react-icons": "^4.2.0",
+    "react-native": "^0.71.8",
+    "react-paypal-button-v2": "^2.6.3",
+    "react-places-autocomplete": "^7.3.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-signature-canvas": "^1.0.6",
+    "react-table": "^7.7.0",
+    "react-timeline-range-slider": "^1.4.1",
+    "styled-components": "^5.3.0",
+    "use-places-autocomplete": "^1.9.3",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "prop-types": "^15.8.1"
+  }
+}
